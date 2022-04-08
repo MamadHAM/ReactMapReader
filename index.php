@@ -159,8 +159,6 @@
 
 
     if(ReadMapFile("https://static-assets-prod.epicgames.com/account-management/ue/static/webpack/app.epic-account-management.2b750113ccf79b8da318.js.map", true, true, true))
-//    if(ReadMapFile("http://185.73.115.80/ract_test/my-app/build/static/js/main.d8882291.chunk.js.map", true, false, true))
-//    if(ReadMapFile("https://bxp-content-static.prod.public.atl-paas.net/js/react.cf39cb772d76b1663841.min.js.map", true, false, true))
         echo "Ok!";
     else
         echo "False";
